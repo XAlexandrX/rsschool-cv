@@ -1,1 +1,2 @@
-https://xalexandrx.github.io/rsschool-cv/cv.html
+https://xalexandrx.github.io/rsschool-cv/cv
+
