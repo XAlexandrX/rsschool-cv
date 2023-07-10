@@ -7,7 +7,7 @@
 * Email: Limarenko_a.a@mail.ru 
 
 ## Personal information:
-My name is Alexander, I'm 33 years old. My goal is to be a frontend developer.
+My name is Alexander, I'm 34 years old. My goal is to be a frontend developer.
 My strengths are discipline, patience, diligence.
 More than 10 years experience in trade, I work in a distribution company as a sales agent.
 
